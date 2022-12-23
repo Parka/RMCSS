@@ -2,7 +2,7 @@
   "name": "rmcss",
   "displayName": "RMCSS",
   "description": "Converts string className (React) to modular css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "github:Parka/RMCSS",
   "engines": {
     "vscode": "^1.74.0"
